@@ -1,4 +1,3 @@
-###STT 6220 projet
 #Check how long the simulation takes 
 #Consider n = 100 and missing rate is 40%
 
